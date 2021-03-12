@@ -19,6 +19,6 @@ The answer for each input can be found in the generated ```answers.csv``` file.
 
 Congratulations on completeing the challenge! I have included my solution in this repository for reference (and to generate the answers).
 
-Happy Red Nose Day! If you enjoyed this challenge please make a small donation to Comic Relief.
+Happy Red Nose Day! If you enjoyed this challenge please consider making a small donation to [Comic Relief](https://www.comicrelief.com/).
 
 👃👃👃👃👃👃👃👃👃👃👃🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
